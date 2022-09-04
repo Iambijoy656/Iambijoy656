@@ -37,9 +37,5 @@ src="https://img.shields.io/github/followers/Iambijoy656?logo=github&style=for-t
 
 <p align="left"> <a href="https://github.com/Iambijoy656" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/bijoy-chandro-das-600812242/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
-### Badges
 
-<b>My GitHub Stats</b>
-
-<a href="https://github.com/Iambijoy656"><img src="https://github-readme-stats.vercel.app/api?username=tonmoy1996&show_icons=true&hide=&count_private=true&title_color=14b8a6&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Iambijoy656's GitHub stats" /></a>
 
