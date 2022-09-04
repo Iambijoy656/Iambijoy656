@@ -9,7 +9,7 @@ I am a Passionate and Results-oriented Software Engineer of experience in softwa
 * 🌍  I'm based in Dhaka, Bangladesh
 * ✉️  You can contact me at [bijoy.chandrodas56@gmail.com](mailto:bijoydas00656@gmail.com)
 * 🚀  I'm studying at [Stamford University Bangladesh.]([http://www.pentabd.com/](https://www.stamforduniversity.edu.bd/))
-* 🧠  I'm learning ELk Stack, AWS,programing hero
+* 🧠  I'm learning python, django
 
 <a href="https://github.com/Iambijoy656" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Iambijoy656?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
