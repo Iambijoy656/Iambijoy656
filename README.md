@@ -37,7 +37,12 @@ src="https://img.shields.io/github/followers/Iambijoy656?logo=github&style=for-t
 <p align="left"> <a href="https://github.com/Iambijoy656" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/bijoy-chandro-das-600812242/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Iambijoy656&show_icons=true&theme=radical)
+[![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Iambijoy656&&theme=xcode)](https://github.com/rishavchanda)
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Iambijoy656&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Iambijoy656" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Iambijoy656&show_icons=true&locale=en&theme=tokyonight" alt="Iambijoy656" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Iambijoy656&&theme=tokyonight" alt="Iambijoy656" /></p>
 
 
