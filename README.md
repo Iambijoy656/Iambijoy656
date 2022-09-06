@@ -41,11 +41,11 @@ src="https://img.shields.io/github/followers/Iambijoy656?logo=github&style=for-t
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Iambijoy656&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Iambijoy656" /></p> <br>
 
-### Badges
+
 
 <b>My GitHub Stats</b>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rishavchanda&show_icons=true&locale=en&theme=tokyonight" alt="rishavchanda" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Iambijoy656&show_icons=true&locale=en&theme=tokyonight" alt="Iambijoy656" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishavchanda&&theme=tokyonight" alt="rishavchanda" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Iambijoy656&&theme=tokyonight" alt="Iambijoy656" /></p>
 
