@@ -41,8 +41,11 @@ src="https://img.shields.io/github/followers/Iambijoy656?logo=github&style=for-t
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Iambijoy656&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Iambijoy656" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Iambijoy656&show_icons=true&locale=en&theme=tokyonight" alt="Iambijoy656" /></p>
+### Badges
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Iambijoy656&&theme=tokyonight" alt="Iambijoy656" /></p>
+<b>My GitHub Stats</b>
 
+<a href="http://www.github.com/Iambijoy656"><img src="https://github-readme-stats.vercel.app/api?username=Iambijoy656&show_icons=true&hide=&count_private=true&title_color=14b8a6&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Iambijoy656's GitHub stats" /></a>
+
+<a href="http://www.github.com/Iambijoy656"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Iambijoy656&stroke=ffffff&background=1c1917&ring=14b8a6&fire=14b8a6&currStreakNum=ffffff&currStreakLabel=14b8a6&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
