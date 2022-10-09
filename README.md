@@ -39,6 +39,11 @@ src="https://img.shields.io/github/followers/Iambijoy656?logo=github&style=for-t
 
 [![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Iambijoy656&&theme=xcode)](https://github.com/Iambijoy656)
 
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/Iambijoy656"><img src="https://github-readme-stats.vercel.app/api?username=Iambijoy656&show_icons=true&hide=&count_private=true&title_color=14b8a6&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="tonmoy1996's GitHub stats" /></a>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Iambijoy656&&theme=tokyonight" alt="Iambijoy656" /></p>
 
