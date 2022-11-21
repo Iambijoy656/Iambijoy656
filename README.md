@@ -9,7 +9,7 @@ I am a Passionate and Results-oriented Software Engineer of experience in softwa
 * 🌍  I'm based in Dhaka, Bangladesh
 * ✉️  You can contact me at [bijoy.chandrodas56@gmail.com](mailto:bijoydas00656@gmail.com)
 * 🚀  I'm studying at [Stamford University Bangladesh.]([http://www.pentabd.com/](https://www.stamforduniversity.edu.bd/))
-* 🧠  I'm learning python, django
+* 🧠  I'm learning Redux, React Native
 
 <a href="https://github.com/Iambijoy656" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Iambijoy656?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
@@ -26,7 +26,8 @@ src="https://img.shields.io/github/followers/Iambijoy656?logo=github&style=for-t
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-  <a href="https://www.tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="Tailwind Css" /></a>
+<a href="https://www.tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="Tailwind Css" /></a>
+  <a href="https://www.redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
 </p>
 
 
