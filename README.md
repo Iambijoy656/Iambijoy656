@@ -4,7 +4,7 @@ Hi 👋 My name is Bijoy Chandro Das
 Software Engineer
 -----------------
 
-I am a Passionate and Results-oriented Software Engineer of experience in software development with various platforms. I have working with rest API and developed full-scale software solutions. I am constantly striving to learn new technologies and look to ways to better myself in this rapidly changing industry.
+I am a Passionate and Results-oriented Software Engineer of experience in software development with various platforms. I have working with rest API , Node JS, Express JS , JavaScript , React JS and developed full-scale software solutions. I am constantly striving to learn new technologies and look to ways to better myself in this rapidly changing industry.
 
 * 🌍  I'm based in Dhaka, Bangladesh
 * ✉️  You can contact me at [bijoy.chandrodas56@gmail.com](mailto:bijoydas00656@gmail.com)
