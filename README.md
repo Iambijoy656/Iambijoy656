@@ -16,6 +16,7 @@
 <a href="https://fb.com/iambijoydas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="iambijoydas" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/bijoychandrodas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="bijoychandrodas" height="30" width="40" /></a>
 </p>
+<h3 align="left">🏆 GitHub Trophies:</h3>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iambijoy656" alt="iambijoy656" /></a> </p>
 
