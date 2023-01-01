@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bijoy Chandro Das</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iambijoy656" alt="iambijoy656" /></a> </p>
+<img src="bannerImg.png" alt="iambijoy656" />
 
 - 🔭 I’m currently working on **MERN Stack**
 
