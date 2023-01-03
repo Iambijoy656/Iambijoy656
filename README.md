@@ -9,6 +9,8 @@
 
 - 📫 How to reach me **bijoy.chandrodas56@gmail.com**
 
+![Profile views](https://gpvc.arturio.dev/Iambijoy656)
+
 <h3 align="left">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/bijoychandrodas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bijoychandrodas" height="30" width="40" /></a>
