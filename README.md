@@ -10,8 +10,8 @@
 - 📫 How to reach me **bijoy.chandrodas56@gmail.com**
 
 ![Profile views](https://gpvc.arturio.dev/Iambijoy656)
-<a href="https://www.github.com/Iambijoy656" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/sonjoysaha36?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+<p><a href="https://www.github.com/Iambijoy656" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/sonjoysaha36?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a></p>
 
 
 <h3 align="left">Connect with me:</h3>
