@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Bijoy Chandro Das</h1>
 <h3 align="center">A passionate Software developer from Bangladesh</h3>
 
-I am a Passionate and Results-oriented Software Engineer .I pursued a Bachelor's degree in Computer Science and Engineering from Stamford University Bangladesh. I have working with rest API , Node JS, Express JS JavaScript and React JS . I am constantly striving to learn new technologies and look to ways to better myself in this rapidly changing industry.
+I am a Passionate and Results-oriented Software Engineer. I pursued a Bachelor's in Computer Science and Engineering from Stamford University Bangladesh. I have working with rest API , Node JS, Express JS JavaScript and React JS . I am constantly striving to learn new technologies and look for ways to better myself in this rapidly changing industry.
 
 <img src="bannerImg.png" alt="iambijoy656" />
 
-- 🔭 I’m currently working on **MERN Stack**
+- 🔭 I’m working at **Tiggzy IT as a Jr. Web Developer**
 
-- 🌱 I’m currently learning **MERN Stack technology**
+- 🌱 I’m currently working **MERN Stack technology**
 
 - 📫 How to reach me **bijoy.chandrodas56@gmail.com**
 
