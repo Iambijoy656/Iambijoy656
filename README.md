@@ -13,7 +13,7 @@ I am a Passionate and Results-oriented Software Engineer. I pursued a Bachelor's
 
 - 🚀  I'm Student of Stamford University Bangladesh (Dept. of CSE)
 
-![Profile views](https://gpvc.arturio.dev/Iambijoy656)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Iambijoy656&label=Profile%20views&color=0e75b6&style=flat" alt="Bijoy" /> </p>
 
 <p><a href="https://www.github.com/Iambijoy656" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/sonjoysaha36?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a></p>
