@@ -5,13 +5,9 @@ I am a Passionate and Results-oriented Software Engineer. I pursued a Bachelor's
 
 <img src="bannerImg.png" alt="iambijoy656" />
 
-- 🔭 I’m working at **Tiggzy IT as a Jr. Web Developer**
-
-- 🌱 I’m currently working **MERN Stack technology**
-
-- 📫 How to reach me **bijoy.chandrodas56@gmail.com**
-
-- 🚀  I'm Student of Stamford University Bangladesh (Dept. of CSE)
+- 🌍 I’m working at **Tiggzy IT as a Jr. Web Developer**
+* ✉️  You can contact me at [bijoy.chandrodas56@gmail.com](mailto:bijoy.chandrodas56@gmail.com)
+* 🧠  I'm learning Spring Boot, Postgresql, AWS 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Iambijoy656&label=Profile%20views&color=de7716&style=flat" alt="Bijoy" /> </p>
 
